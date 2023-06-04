@@ -3,12 +3,12 @@
   #code
   #setwd("~/ownCloud/2023_SS9/")
   
-  setwd("C:/Users/Sivakumar/Downloads/2023_SS9/2023_SS9")
+  setwd("C:/Users/Sivakumar/Documents/RCodes/supersinger9/")
   
   
-  link_data <- read.csv("link_datatest2.csv")
+  link_data <- read.csv("link_datatest3.csv")
   
-  node_data <- read.csv("node_datatest2.csv")
+  node_data <- read.csv("node_datatest3.csv")
   
   
   
